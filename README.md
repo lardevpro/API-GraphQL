@@ -1,6 +1,8 @@
 # Proyecto de API con GraphQL y TypeScript
 
-![GraphQL Logo](https://github.com/user-attachments/assets/b245ca74-0bd1-44c9-9f45-b0ad9c2ae231 =250x250)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b245ca74-0bd1-44c9-9f45-b0ad9c2ae231" width="125" height="125" alt="GraphQL Logo">
+</p>
   
 Este proyecto consiste en una **API GraphQL** desarrollada con **Node.js** y **TypeScript**. Utiliza **Apollo Server** para gestionar las consultas y mutaciones, y proporciona una forma flexible y eficiente de interactuar con los datos.
 
