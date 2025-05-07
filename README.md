@@ -1,5 +1,4 @@
-# Proyecto de API con GraphQL y TypeScript
-
+<h1 align="center">Proyecto de API con GraphQL y TypeScript</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b245ca74-0bd1-44c9-9f45-b0ad9c2ae231" width="400" height="400" alt="GraphQL Logo">
 </p>
